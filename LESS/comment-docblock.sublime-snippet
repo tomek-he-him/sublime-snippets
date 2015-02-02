@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[////
-//	$1
-//]]></content>
+//  $1
+////]]></content>
 	<tabTrigger>_cd</tabTrigger>
 	<scope>source.d</scope>
 	<description>Comment – docblock</description>
