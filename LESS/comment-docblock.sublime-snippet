@@ -2,7 +2,7 @@
 	<content><![CDATA[////
 //	$1
 //]]></content>
-	<tabTrigger>_ch</tabTrigger>
+	<tabTrigger>_cd</tabTrigger>
 	<scope>source.d</scope>
-	<description>Comment – headline</description>
+	<description>Comment – docblock</description>
 </snippet>
