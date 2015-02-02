@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[return self;]]></content>
+    <tabTrigger>_rs</tabTrigger>
+    <scope>source.js</scope>
+    <description>Return self</description>
+</snippet>

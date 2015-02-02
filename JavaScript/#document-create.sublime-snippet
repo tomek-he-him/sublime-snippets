@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[document.create${1:E}${1/(E)|(D)|.*/(?1:lement)(?2:ocumentFragment)/}($2)${3:;}]]></content>
+    <scope>source.js</scope>
+    <description>document.create– –Element or –DocumentFragment</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[return this;]]></content>
+    <tabTrigger>_rt</tabTrigger>
+    <scope>source.js</scope>
+    <description>Return this</description>
+</snippet>

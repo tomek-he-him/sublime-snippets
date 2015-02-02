@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[$1.prototype.$2 = function ${3:$2 }($4) {${5}
+	};]]></content>
+    <tabTrigger>_fm</tabTrigger>
+    <scope>source.js</scope>
+    <description>A method (prototype function)</description>
+</snippet>

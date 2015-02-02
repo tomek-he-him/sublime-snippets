@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[throw new ${1:Error}("$2${3:: }${4:.}");]]></content>
+    <tabTrigger>_t</tabTrigger>
+    <scope>source.js</scope>
+    <description>throw an error</description>
+</snippet>

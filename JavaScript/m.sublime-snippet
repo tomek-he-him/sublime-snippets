@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[m
+	( $1
+	)
+]]></content>
+    <tabTrigger>m</tabTrigger>
+    <scope>source.js</scope>
+    <description>A Mithril element</description>
+</snippet>

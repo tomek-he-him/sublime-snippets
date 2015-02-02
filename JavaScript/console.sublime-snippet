@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[console]]></content>
+    <tabTrigger>_c</tabTrigger>
+    <scope>source.js</scope>
+    <description>console</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<snippet>
+    <content><![CDATA[$1]]$NOT_DEFINED></content>
+    <tabTrigger>$2</tabTrigger>
+    <scope>source.js</scope>
+    <description>${3:$1}</description>
+</snippet>
+]]></content>
+    <tabTrigger>_sj</tabTrigger>
+    <scope>text.xml</scope>
+    <description>javascript snippet</description>
+</snippet>

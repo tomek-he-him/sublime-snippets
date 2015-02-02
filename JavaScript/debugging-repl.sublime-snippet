@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var debuggingContext = require('repl').start('debug > ').context;]]></content>
+    <tabTrigger>_dr</tabTrigger>
+    <scope>source.js</scope>
+    <description>Debugging: Invoke node's REPL.</description>
+</snippet>

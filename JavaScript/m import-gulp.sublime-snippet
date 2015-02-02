@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var ${2:$1} = require("gulp-$1");]]></content>
+    <tabTrigger>_mg</tabTrigger>
+    <scope>source.js</scope>
+    <description>gulp plugin import</description>
+</snippet>

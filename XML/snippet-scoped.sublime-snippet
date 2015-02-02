@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<snippet>
+    <content><![CDATA[$1]]$NOT_DEFINED></content>
+    <tabTrigger>$2</tabTrigger>
+    <scope>$3</scope>
+    <description>${4:$1}</description>
+</snippet>
+]]></content>
+    <tabTrigger>_ss</tabTrigger>
+    <scope>text.xml</scope>
+    <description>scoped snippet</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[// $1
+]]></content>
+	<tabTrigger>_c</tabTrigger>
+	<scope>source.d</scope>
+	<description>Comment</description>
+</snippet>
