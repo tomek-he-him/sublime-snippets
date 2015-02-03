@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[//TODO: $1
+]]></content>
+	<tabTrigger>_clt</tabTrigger>
+	<scope>source.d</scope>
+	<description>TODO-labeled comment</description>
+</snippet>
