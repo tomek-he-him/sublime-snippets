@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var ${2:$1} = require("101/$1");]]></content>
+    <tabTrigger>_mr1</tabTrigger>
+    <scope>source.js</scope>
+    <description>commonJS import from 101</description>
+</snippet>

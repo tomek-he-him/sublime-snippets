@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var ${2:$1} = require('1-liners/$1');]]></content>
+    <tabTrigger>_irl</tabTrigger>
+    <scope>source.js</scope>
+    <description>commonJS import from 1-liners</description>
+</snippet>

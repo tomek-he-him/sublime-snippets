@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[debuggingContext.$1 = $1;]]></content>
-    <tabTrigger>_dc</tabTrigger>
-    <scope>source.js</scope>
-    <description>Debugging: Add a context property.</description>
-</snippet>

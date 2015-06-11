@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+var $2${1/(^.*\/)|(?:(\w)-(\w|$))/$2\u$3/g} = require('gulp-$1');
+]]></content>
+    <tabTrigger>_irg</tabTrigger>
+    <scope>source.js</scope>
+    <description>CommonJS import – a gulp plugin</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import $2${1/(^.*\/)|(?:(\w)-(\w|$))/$2\u$3/g} from '$1';
+]]></content>
+    <tabTrigger>_i</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 import</description>
+</snippet>

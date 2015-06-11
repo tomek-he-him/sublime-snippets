@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[console.log(JSON.stringify($1));]]></content>
+    <tabTrigger>_cj</tabTrigger>
+    <scope>source.js</scope>
+    <description>Console log JSON</description>
+</snippet>

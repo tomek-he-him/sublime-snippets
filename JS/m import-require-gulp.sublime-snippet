@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[var ${2:$1} = require("gulp-$1");]]></content>
-    <tabTrigger>_mg</tabTrigger>
+    <tabTrigger>_mrg</tabTrigger>
     <scope>source.js</scope>
-    <description>gulp plugin import</description>
+    <description>CommonJS import – a gulp plugin</description>
 </snippet>

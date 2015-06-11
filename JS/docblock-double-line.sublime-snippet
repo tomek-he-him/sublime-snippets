@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+
+*
+* 
+]]></content>
+	<tabTrigger>_dd</tabTrigger>
+	<scope>source.js</scope>
+	<description>Docblock double line</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@param  {${1:*}}  $2
+]]></content>
+	<tabTrigger>_dp</tabTrigger>
+	<scope>source.js</scope>
+	<description>Docblock parameter</description>
+</snippet>
