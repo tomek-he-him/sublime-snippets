@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[console.dir($1, {depth: ${2:0}});]]></content>
+    <content><![CDATA[console.dir($1, {depth: ${2:0}${3:, colors: true}});]]></content>
     <tabTrigger>_cd</tabTrigger>
     <scope>source.js</scope>
     <description>console dir</description>
